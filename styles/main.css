@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5, h6{
 /*BOX MODEL*/
 
 #page-home{
-    height: 100vh;
+    height: 140vh;
     background: url('../assets/home-background.svg') no-repeat;
     background-position: 35vw bottom;
 }
